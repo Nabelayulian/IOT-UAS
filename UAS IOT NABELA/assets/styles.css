@@ -1,0 +1,18 @@
+ /* LED indicator styles */
+ .led-indicator {
+  width: 100px;
+  height: 10px;
+  border-radius: 5px;
+  margin: 0 auto;
+  background-color: rgb(0, 59, 168);
+  /* Off state */
+}
+
+.led-on {
+  background-color: rgb(204, 218, 9);
+}
+
+.row {
+  margin-top: 40px;
+}
+
